@@ -24,4 +24,4 @@ In conclusion, our Python Quran Reader project represents a humble endeavor to l
 
 
 
-.md…]()
+
